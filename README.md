@@ -1,1 +1,1 @@
-A part of the code was made following [`TUTO UNITY` FR tutorial](https://www.youtube.com/watch?v=Y3-iYIs16TI&list=PLUWxWDlz8PYKnrd27LTqOxL2lr3KhEVRT)
+A part of the code was made following [`TUTO UNITY FR` tutorial](https://www.youtube.com/watch?v=Y3-iYIs16TI&list=PLUWxWDlz8PYKnrd27LTqOxL2lr3KhEVRT)
